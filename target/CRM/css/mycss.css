@@ -1,0 +1,12 @@
+.main_body{
+	text-align: left;
+	border: 1px;
+}
+
+.myTable{
+	margin-top: 0px;
+	padding-top:0px; 
+	border: 1px;
+	text-align: center;
+	width: 100%;
+}
